@@ -1,2 +1,3 @@
 # postcssfun
-practice postcss and lost
+
+Just messing around with PostCSS, Stylus, and Lost.
